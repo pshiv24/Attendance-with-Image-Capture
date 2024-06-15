@@ -1,10 +1,13 @@
 # Attendance-with-Image-Capture
 
 ## Setup
-Clone the repository
+# Clone the repository
 
 git clone https://github.com/pshiv24/Attendance-with-Image-Capture.git
 cd attendance
+
+# Create a folder attendance_images for storing images for marking attendance
+    attendance/attendance_images
 
 1. Create and activate a virtual environment:
 
